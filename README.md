@@ -1,5 +1,8 @@
 # 1Fi Full Stack Developer Assignment
 
+## 🚀 Live Demo
+[https://1-fi-assignment.vercel.app/]
+
 A premium dynamic product page with real-time EMI calculations and variant switching.
 
 ## 🚀 Tech Stack
