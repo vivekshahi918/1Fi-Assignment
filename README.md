@@ -11,7 +11,7 @@ A premium dynamic product page with real-time EMI calculations and variant switc
 - **Validation:** React use() hook for Async Params (Next.js 15)
 
 ## 🛠️ Setup Instructions
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone https://github.com/vivekshahi918/1Fi-Assignment`
 2. Install dependencies: `npm install`
 3. Set `.env.local`: Add `MONGODB_URI`
 4. Run: `npm run dev`
